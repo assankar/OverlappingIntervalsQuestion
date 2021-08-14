@@ -1,0 +1,16 @@
+C:\Users\acsankar\source\repos\CountOfOverlaps\CountOfOverlaps\obj\Debug\net5.0\CountOfOverlaps.csproj.AssemblyReference.cache
+C:\Users\acsankar\source\repos\CountOfOverlaps\CountOfOverlaps\obj\Debug\net5.0\CountOfOverlaps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acsankar\source\repos\CountOfOverlaps\CountOfOverlaps\obj\Debug\net5.0\CountOfOverlaps.AssemblyInfoInputs.cache
+C:\Users\acsankar\source\repos\CountOfOverlaps\CountOfOverlaps\obj\Debug\net5.0\CountOfOverlaps.AssemblyInfo.cs
+C:\Users\acsankar\source\repos\CountOfOverlaps\CountOfOverlaps\obj\Debug\net5.0\CountOfOverlaps.csproj.CoreCompileInputs.cache
+C:\Users\acsankar\source\repos\CountOfOverlaps\CountOfOverlaps\bin\Debug\net5.0\CountOfOverlaps.exe
+C:\Users\acsankar\source\repos\CountOfOverlaps\CountOfOverlaps\bin\Debug\net5.0\CountOfOverlaps.deps.json
+C:\Users\acsankar\source\repos\CountOfOverlaps\CountOfOverlaps\bin\Debug\net5.0\CountOfOverlaps.runtimeconfig.json
+C:\Users\acsankar\source\repos\CountOfOverlaps\CountOfOverlaps\bin\Debug\net5.0\CountOfOverlaps.runtimeconfig.dev.json
+C:\Users\acsankar\source\repos\CountOfOverlaps\CountOfOverlaps\bin\Debug\net5.0\CountOfOverlaps.dll
+C:\Users\acsankar\source\repos\CountOfOverlaps\CountOfOverlaps\bin\Debug\net5.0\ref\CountOfOverlaps.dll
+C:\Users\acsankar\source\repos\CountOfOverlaps\CountOfOverlaps\bin\Debug\net5.0\CountOfOverlaps.pdb
+C:\Users\acsankar\source\repos\CountOfOverlaps\CountOfOverlaps\obj\Debug\net5.0\CountOfOverlaps.dll
+C:\Users\acsankar\source\repos\CountOfOverlaps\CountOfOverlaps\obj\Debug\net5.0\ref\CountOfOverlaps.dll
+C:\Users\acsankar\source\repos\CountOfOverlaps\CountOfOverlaps\obj\Debug\net5.0\CountOfOverlaps.pdb
+C:\Users\acsankar\source\repos\CountOfOverlaps\CountOfOverlaps\obj\Debug\net5.0\CountOfOverlaps.genruntimeconfig.cache
